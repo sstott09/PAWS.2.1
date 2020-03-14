@@ -39,6 +39,21 @@ class AppNavbar extends Component {
                                     PAWS Home
                                 </NavLink>
                             </NavItem>
+                            <NavItem>
+                                <NavLink href="http://paws.wtf/animals/cat">
+                                    Cats
+                                </NavLink>
+                            </NavItem>
+                            <NavItem>
+                                <NavLink href="http://paws.wtf/animals/dog">
+                                    Dogs
+                                </NavLink>
+                            </NavItem>
+                            <NavItem>
+                                <NavLink href="http://paws.wtf/login">
+                                    Sign In
+                                </NavLink>
+                            </NavItem>
                         </Nav>
                     </Collapse>
                 </Container>
